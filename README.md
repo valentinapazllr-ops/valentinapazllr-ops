@@ -28,7 +28,7 @@ Soy desarrolladora **Full Stack Junior** con fuerte enfoque en el ecosistema Fro
 - 🚀 Experiencia en desarrollo de **SPAs dinámicas** con Vue 3 (Composition API)
 - 🔥 Gestión de datos en tiempo real con **Firebase / Firestore**
 - 🎯 Comprometida con la calidad del código y la experiencia del usuario (UX)
-- 🌎 Enfocada en el mercado **LATAM** y oportunidades remotas globales
+- 🌎 Enfocada en el mercado **Mercado Libre** y oportunidades remotas globales
 - 📚 Certificada en **Desarrollo de Aplicaciones Front-end Trainee** · ISEG / SENCE 2026
 
 ---
@@ -42,7 +42,7 @@ Soy desarrolladora **Full Stack Junior** con fuerte enfoque en el ecosistema Fro
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A66C2?style=flat-square)
 
-### Backend & Herramientas
+### Herramientas
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
