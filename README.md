@@ -28,7 +28,6 @@ Soy desarrolladora **Full Stack Junior** con fuerte enfoque en el ecosistema Fro
 - 🚀 Experiencia en desarrollo de **SPAs dinámicas** con Vue 3 (Composition API)
 - 🔥 Gestión de datos en tiempo real con **Firebase / Firestore**
 - 🎯 Comprometida con la calidad del código y la experiencia del usuario (UX)
-- 🌎 Enfocada en el trabajo de **Mercado Libre** y oportunidades remotas globales
 - 📚 Certificada en **Desarrollo de Aplicaciones Front-end Trainee** · ISEG / SENCE 2026
 
 ---
