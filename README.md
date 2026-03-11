@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Valentina Paz 👋
 
-### Junior Full Stack Developer · Especialista en Vue.js & Soluciones Digitales
+### Junior Tech Talent & Front-End Developer Trainee  · Especialista en Vue.js & Soluciones Digitales
 
 *Convierto ideas complejas en interfaces dinámicas de alto rendimiento*
 
