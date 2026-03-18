@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=250&section=header&text=Valentina%20Paz%20👩‍💻&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20(Vue.js)%20·%20Building%20modern%20interfaces&descAlignY=60&descSize=20" />
+<img src="assets/img/unnamed.jpg" />
 
 </div>
 
