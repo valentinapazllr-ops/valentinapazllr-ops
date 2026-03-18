@@ -2,10 +2,7 @@
 
 <img src="./assets/img/unnamed.jpg" alt="CodeMochi Banner" width="100%" style="border-radius: 20px;" />
 
-<br><br>
 
-<h1>✨ Valentina Paz 👩‍💻</h1>
-<h3>Frontend Developer · Vue.js · CodeMochi 🍡💻</h3>
 
 </div>
 
