@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="./assets/img/unnamed.jpg" alt="CodeMochi Banner" width="70%" style="border-radius: 20px;" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=header&animation=fadeIn" />
+<img src="./assets/img/unnamed.jpg" alt="CodeMochi Banner" width="45%" style="border-radius: 20px;" />
 
 </div>
 
@@ -154,4 +148,4 @@
 🧠 Explorando     Arquitectura Frontend avanzada
 🚀 Mejorando      Performance & Core Web Vitals
 🤝 Buscando       Oportunidades como desarrolladora
-
+` ` `
